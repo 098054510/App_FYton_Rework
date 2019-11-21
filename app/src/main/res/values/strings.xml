@@ -1,0 +1,388 @@
+<resources>
+    <string name="app_name">Fytón</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Plantas Da Caatinga</string>
+    <string name="title_notifications">Projeto Irrigador Vertical</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+    <string name="plant_name">Nome Da Planta</string>
+    <string name="scientific_name">Nome Cientifico</string>
+    <string name="details">Detalhes</string>
+    <string name="plant_type">Tipo: </string>
+    <string name="plant_habitat">Habitat: </string>
+    <string name="back_to">Voltar</string>
+    <string name="how_to_care">Como Criar</string>
+    <string name="page_two">Pagina 2</string>
+    <string name="page_one">Pagina 1</string>
+    <string name="go_to_page_two">Pagina 2</string>
+    <string name="go_to_page_one">Pagina 1</string>
+    <string name="the_vertical_irrigator_project">Projeto Irrigador Vertical</string>
+    <string name="title_activity_vertical__irrigator">O Que é o Irrigador Vertical ?</string>
+    <string name="large_text_irrigador">
+        "Objetivo Principal.\n\n"
+
+        "O Projeto Irrigador Vertical foi criado na intenção de auxiliar o cultivo de plantas domesticas,"
+        "principalmente em ambientes com pouco espaço disponivel, como apartamentos, por exemplo. \n\n"
+
+        "Ecologicamente correto. \n\n"
+
+        "O Irrigador pode ser feito com materiais reciclaveis, reduzindo o gasto com peças e "
+        "ajudando o meio ambiente. \n\n"
+
+        "Pratico no uso diario. \n\n"
+
+        "O Irrigador Vertical passa o tempo que for necessario cuidando da planta mesmo que "
+        "não tenha ninguem olhando.\n"
+        "Isto é extremamente util para quem passa o dia fora de casa e não tem tempo para "
+        "cuidar das plantas. \n"
+        "Basta encher de água e pronto. O Irrigador ira trabalhar sozinho."
+
+    </string>
+    <string name="action_settings">Configurações</string>
+    <string name="what_is_the_irrigator">O Que é o Irrigador</string>
+    <string name="step_by_step">Passo a Passo</string>
+    <string name="title_activity_all__steps__irrigator">All_Steps_Irrigator</string>
+    <string name="materiais_necessarios">Materiais Necessários</string>
+    <string name="montagem">Montagem</string>
+    <string name="title_activity_materials_needed">MaterialsNeeded</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="garrafa_pet_2_5_litros">2 Garrafas PET 2,5 Litros</string>
+    <string name="fita_isolante">Fita Isolante</string>
+    <string name="cano_de_28mm">1 Metro de Cano de 28mm</string>
+    <string name="registro_para_cano_de_28mm">1 Registro Para Cano de 28mm</string>
+    <string name="rosca_para_cano_de_28mm">1 Rosca Para Cano de 28mm</string>
+    <string name="t_para_cano_de_28mm">1 T Para Cano de 28mm</string>
+    <string name="tubo_plastico_haste_de_lincagem_100x2_5x3_6">4 Tubos Plastico Haste de Lincagem 100x2,5x3,6</string>
+    <string name="_4_tampas_de_caneta">4 Tampas de Caneta</string>
+    <string name="orqu_dea">Orquídea</string>
+    <string name="orchidaceae">Orchidaceae</string>
+    <string name="cuphea_gracilis">Cuphea gracilis</string>
+    <string name="rica">Érica</string>
+    <string name="divis_o_magnoliophyta">Divisão: Magnoliophyta</string>
+    <string name="classe_liliopsida">Classe: Liliopsida</string>
+    <string name="ordem_asparagales">Ordem: Asparagales</string>
+    <string name="fam_lia_orchidaceae">Família: Orchidaceae</string>
+    <string name="dom_nio_eukaryota">Domínio: Eukaryota</string>
+    <string name="ficha_t_cnica">Ficha Técnica</string>
+    <string name="historia">Historia</string>
+    <string name="title_activity_history__orquidea">Historia da Orquídea</string>
+    <string name="large_text_orquidea">
+        "Conteudo Historico\n\n"
+
+        "As orquídeas são todas as plantas que fazem parte da família Orchidaceae, pertencente à "
+        "ordem de Asparagales, uma das maiores famílias de plantas. \n"
+        "Representam muitas formas, cores e tamanhos diferentes e existem em todos os continentes, "
+        "exceto a Antártida, que prevalece nos trópicos. "
+        "Em geral, epífitas, orquídeas crescem em árvores, usando-as apenas como suporte para "
+        "a busca de luz; eles não são plantas parasitas, alimentados apenas pela decomposição "
+        "do material, que cai de árvores e se acumula quando se enredam nas raízes. \n"
+        "Existem muitas formas de reprodução.Na natureza, principalmente "
+        "pela dispersão de sementes, mas no processo de cultivo por arbustos, culturas in vitro "
+        "ou meristemas. \n"
+        "Existem mais de 700 gêneros de orquídeas e  250.000 híbridas (cruzamento ). É flor!!! \n\n"
+
+        "As orquídeas são plantas da família orquidáceas que se encontra em quase todos "
+        "os continentes do mundo, exceto na Antártida devido ao seu clima. \n"
+        "Ela costuma se encontrar em florestas e matas, inclusive o Brasil é "
+        "um dos países no qual encontramos uma grande quantidade de orquídeas. \n"
+    </string>
+    <string name="title_activity_how__create__orquidea">Como Criar Uma Orquídea</string>
+    <string name="large_text_create_orquidea">
+        "Cultivo \n\n"
+
+        "Basta um cantinho iluminado e muito carinho para você ter orquídeas lindas em casa. \n\n"
+
+        "Encontre o local: \n\n"
+
+        "· No quintal \n"
+        "Orquídeas vão bem tanto em ambiente interno quanto em externo. "
+        "Quem mora em casa pode deixar os vasos no quintal, sobre uma tábua apoiada "
+        "em tijolos (no chão, eles atraem lesmas!). \n\n"
+
+        "· Dentro de casa \n"
+        "Se você mora em apartamento, aproveite o parapeito de uma janela: "
+        "vale o da sala, do quarto, da cozinha e até mesmo da área de serviço! \n\n"
+
+        "Segredos da rega perfeita \n\n"
+
+        "· Dispense o prato que fica embaixo do vaso. Orquídeas não gostam de "
+        "ter água parada nas raízes. \n"
+
+        "· Com o dedo indicador, toque o substrato (a “terrinha”) e sinta se "
+        "ele está seco. Se estiver bem úmido, nada de água. \n\n"
+
+        "· Vai regar? Leve o vaso para uma pia ou um tanque e deixe a água encharcar "
+        "a planta até escorrer pelos furinhos. Molhe inclusive na parte debaixo das folhas. "
+        "Deixe escorrendo por alguns minutos até voltar o vaso para o lugar em que ele estava. \n\n"
+
+        "· Se a planta estiver florida, tome cuidado para não derrubar água na flor. "
+        "Não é que ela não goste de rega, não! O problema é que flores molhadas atraem "
+        "pulgões, fungos e bactérias. \n\n"
+
+        "· Orquídeas como as chuva-de-ouro ou as catleias, que têm caule gordinho, "
+        "precisam de menos água do que as outras. Essa região é chamada de pseudobulbo "
+        "e serve como uma reserva de comida. "
+    </string>
+    <string name="ordem_ericales">Ordem: Ericales</string>
+    <string name="fam_lia_ericaceae">Família: Ericaceae</string>
+    <string name="g_nero_erica">Género: Erica</string>
+    <string name="classe_magnoliopsida">Classe: Magnoliopsida</string>
+    <string name="title_activity_history__erica">Historia da Érica</string>
+    <string name="large_text_history_erica">
+        "Contexto Historico. \n\n"
+
+        "• Também conhecida como Cufeia ou ainda Falsa Érica. \n"
+        "* As Éricas pertencem à família Lythraceae. \n"
+        "* Têm origem brasileira. \n"
+        "* É duradoura herbácea, sempre dá muitas flores. \n"
+        "* Seu tamanho pode chegar até os 30 cm de altura. \n"
+        "* As folhas possuem a forma de lanças pequenas, são permanentes e verdes. \n"
+        "* A planta quase sempre possuem cor branca ou lilás e por misturar as cores, "
+        "passa a impressão de as mesmas possuem tonalidade rosa claro. \n"
+        "Em razão do tamanho, ela é perfeita para ser plantados em bordaduras, "
+        "jardineiras, canteiros, nas lindas floreiras e até mesmo entre as pedras do "
+        "jardim. Mas para que floresçam com saúde é importante que o solo seja fértil, "
+        "tenha uma drenagem adequada, fazendo com que a terra esteja sempre molhadinha e "
+        "uma boa adubação, o que pode ser alcançado com a adição de matéria orgânica. \n"
+        "* Para que floresçam com saúde é importante que o solo seja fértil, "
+        "tenha uma drenagem adequada, fazendo com que a terra esteja sempre molhadinha "
+        "e uma boa adubação. \n\n"
+    </string>
+    <string name="title_activity_how__create__erica">Como Criar Uma Érica</string>
+    <string name="large_text_how_create_erica">
+        "Cultivo \n\n"
+
+        "Clima ideal \n\n"
+
+        "Se adaptam melhor em climas quentes, o local ideal para colocar "
+        "as mesmas é na luz direta do sol, ou no máximo a meia sombra. "
+        "Senão correm o risco de murchar e morrer por falta de calor. \n"
+
+        "Plantio \n\n"
+
+        "Estas plantas não precisam de um cuidado específico, por isso, qualquer um pode "
+        "tê-las em casa, porém, há algumas coisas que precisam ser esclarecidas, "
+        "como por exemplo: elas não suportam o frio rigoroso, precisam de rega regular e "
+        "não gostam de poda, se podá-las pode ser que não aguentem. Para plantá-las há "
+        "duas formas, através de estacas com mudas já prontas ou por meio de sementes, "
+        "sendo que seu ponto máximo de floração acontece no litoral da região sudeste. \n\n"
+
+        "Há determinadas plantas que pertencem ao gênero Cuphea ou Cufeia que "
+        "são chamadas de “sete sangrias”, fazendo menção de que o tratamento dispensado "
+        "a estas plantas fosse semelhante àquele usado em tempos idos. Atém mesmo a espécie "
+        "Cufeia balsamona é utilizada no tratamento de disenterias e febres, "
+        "em decorrência de sua enorme produção de ácido graxo saturado que, "
+        "combinado com outras substâncias se torna um lubrificante plastificante e sintético. \n"
+    </string>
+    <string name="asystasia_gangetica">Asystasia gangetica</string>
+    <string name="asist_sia">Assútasia</string>
+    <string name="fam_lia_acanthaceae">Família: Acanthaceae</string>
+    <string name="categoria_arbusto"><![CDATA[Categoria: Arbusto]]></string>
+    <string name="clima_equatorial"><![CDATA[Clima: Equatorial]]></string>
+    <string name="origem_sia_ndia_mal_sia"><![CDATA[Origem: Ásia, Índia, Malásia]]></string>
+    <string name="ciclo_de_vida_perene"><![CDATA[Ciclo de Vida: Perene]]></string>
+    <string name="title_activity_how__create__coromandel">Como Criar Uma Assistacia</string>
+    <string name="large_text_History_coromandel">
+        "Cultivo \n\n"
+
+        "Coromandel é uma planta considerada fácil de ser cultivada, e "
+        "parcimoniosa, pois é necessária pouca ação humana para que ela se "
+        "desenvolva e cresça. \n\n"
+
+        "Para plantar o coromandel a primeira coisa a se fazer é escolher o "
+        "local adequado, que deve apresentar um solo com fértil e bem drenável, "
+        "pois a retenção de água em excesso pode apodrecer a sua raiz. O espaço "
+        "também deve receber luz durante a maior parte do dia, uma vez que esta "
+        "planta carece de luminosidade para se desenvolver. \n\n"
+
+        "Para obter uma floração mais bonita é recomendado enriquecer a terra "
+        "com matéria orgânica mensalmente. É importante ressaltar que esta "
+        "planta pode ser invasiva, devendo ser podada para evitar que impeça o "
+        "crescimento de outras flores. \n\n"
+
+        "Ela é um tipo de planta que deve ser cultivada a sol pleno (quando "
+        "cultivada em ambientes e locais com temperaturas um pouco mais frias) "
+        "ou no máximo a meia sombra (quando cultivada em locais mais quentes). \n\n"
+
+        "Quem for cultivar a coromandel precisa tomar bastante cuidado com o "
+        "poder invasivo da planta que devido a isso pode se tornar daninha. \n\n"
+
+    </string>
+    <string name="title_activity_history__assitacia">History_Assitacia</string>
+    <string name="large_text_assitacia_history">
+        "Assistacia \n\n"
+
+        "Nome Científico: Asystasia gangetica \n"
+
+        "Nomes Populares: Coromandel, Asistásia, Asistásia-branca \n"
+
+        "Família: Acanthaceae \n"
+
+        "Categoria: Arbustos, Arbustos Tropicais, Flores Perenes \n"
+
+        "Clima: Equatorial, Subtropical, Tropical \n"
+
+        "Origem: Ásia, Índia, Malásia \n"
+
+        "Altura: 0.4 a 0.6 metros, 0.6 a 0.9 metros, 0.9 a 1.2 metros, 1.2 a "
+        "1.8 metros \n"
+
+        "Luminosidade: Meia Sombra, Sol Pleno \n"
+
+        "Ciclo de Vida: Perene \n\n"
+
+        "Contexto Historico \n\n"
+
+        "Trata-se de uma planta rústica (plantas que se desenvolvem sem a "
+        "necessidade de serem cultivadas e cuidadas pelo ser humano, por isso "
+        "que em algumas localidades do planeta a coromandel é considerada uma "
+        "planta daninha – Austrália, por exemplo) e muito forte e resistente. "
+        "A planta é tipicamente de clima tropical que não suporta as baixas "
+        "temperaturas. Além de não suportar as baixas temperaturas, ela tem "
+        "como uma de suas características o fato de não se adaptar aos locais e "
+        "ambientes que apresentam baixa umidade relativa do ar. "
+        "Ela também é uma planta que é muito atraente para as abelhas e "
+        "borboletas que adoram as suas flores, pois exalam uma fragrância "
+        "bastante agradável. \n"
+        "Ela é uma planta que atinge um tamanho médio de 50 cm, contudo caso "
+        "seja sustentada por um suporte apropriado, ela irá apresentar o "
+        "comportamento de uma planta do tipo trepadeira, onde pode chegar a "
+        "atingir 5 m de altura. A coromandel pode atingir 1,20 m de diâmetro. "
+        "Uma de suas características é que os caules facilmente criam raízes em "
+        "seus nós. \n"
+    </string>
+    <string name="ajuda">Ajuda</string>
+    <string name="cacto_rabo_de_raposa">"Cacto Rabo \n"
+        "de Raposa"</string>
+    <string name="harrisia_adscendens">Harrisia adscendens</string>
+    <string name="pagina_3">Pagina 3</string>
+    <string name="ordem_caryophyllales">Ordem: Caryophyllales</string>
+    <string name="fam_lia_cactaceae">Família: Cactaceae</string>
+    <string name="genero_harrisia">Genero: Harrisia</string>
+    <string name="esp_cie_h_adscendens">Espécie: H. adscendens</string>
+    <string name="title_activity_cacto__raposa__how__care">Como Criar um Cacto Rabo-de-Raposa</string>
+    <string name="large_text_cacto_raposa_history">
+        "Cacto Rabo de Raposa \n\n"
+
+        "Nome Técnico: Harrisia adscendens \n"
+        "Nomes Populares : Rabo-de-raposa \n"
+        "Família : Cactaceae \n"
+        "Origem: Brasil \n\n"
+
+        "É um cacto de longos ramos roliços armados de espinhos claros que só ocorre "
+        "na Caatinga, numa frequência bem menor em relação ao Mandacaru e o Xique-xique. \n"
+        "A planta tem um aspecto esquisito e singular, prestando-se a jardins e cercas-vivas. \n"
+        "Sua floração noturna ocorre logo com as primeiras chuvas e frutifica em "
+        "seguida dispersando suas sementes em plena estação chuvosa. \n\n"
+
+        "Seus frutos maduros são avermelhados, consumidos por pássaros e insetos. \n"
+        "Tem aplicação terapêutica pela população local contra dor de dente, "
+        "problemas nos rins e próstata. Suas raízes são empregadas como "
+        "anti-inflamatório e para facilitar a menstruação. \n"
+
+
+    </string>
+    <string name="title_activity_cacto__raposa__history">Historia do Cacto Rabo-de-Raposa</string>
+    <string name="large_text_cacto_raposa_how_To_create">
+        "Cultivo \n\n"
+
+        "Deve ser cultivada sob meia sombra ou abundante luz indireta, "
+        "em substrato arenoso, perfeitamente drenável e enriquecido com matéria orgânica, "
+        "próprio para plantas suculentas e cactáceas. \n"
+        "As regas devem ser abundantes porém espaçadas, "
+        "permitindo que o substrato seque bem entre uma irrigação e outra. \n"
+        "É importante evitar molhar o caule ou as folhas, "
+        "pois a água empoçada entre os delicados pelinhos podem proporcionar "
+        "o surgimento de doenças fúngicas e bacterianas. \n"
+
+    </string>
+    <string name="orelha_de_gato">Orelha-de-gato</string>
+    <string name="kalanchoe_tomentosa">Kalanchoe tomentosa</string>
+    <string name="nome_cient_fico_kalanchoe_tomentosa">Nome Científico: Kalanchoe tomentosa</string>
+    <string name="fam_lia_crassulaceae">Família: Crassulaceae</string>
+    <string name="clima_continental_equatorial">Clima: Continental, Equatorial</string>
+    <string name="origem_frica_madagascar">Origem: África, Madagascar</string>
+    <string name="title_activity_create__cacto__gato">Como Criar um Cacto Orelha-de-Gato</string>
+    <string name="large_text_create_gato">
+        "Cultivo \n\n"
+
+        "Deve ser cultivada sob meia sombra ou abundante luz indireta, "
+        "em substrato arenoso, perfeitamente drenável e enriquecido com "
+        "matéria orgânica, próprio para plantas suculentas e cactáceas. \n\n"
+
+        "As regas devem ser abundantes porém espaçadas, permitindo que o substrato "
+        "seque bem entre uma irrigação e outra. É importante evitar molhar o caule "
+        "ou as folhas, pois a água empoçada entre os delicados pelinhos podem "
+        "proporcionar o surgimento de doenças fúngicas e bacterianas. \n\n"
+
+        "Não tolera encharcamento, frio intenso (abaixo de 5°C) ou geadas. \n\n"
+
+        "Em áreas de clima subtropical a temperado, convém levar as plantas para ambientes "
+        "internos ou estufas no inverno, e assim protegê-las do frio. \n\n"
+
+        "Jamais utilizar pratos sob o vaso desta suculenta, sob pena de provocar o rápido "
+        "apodrecimento de suas delicadas raízes. Adube com fertilizantes próprios "
+        "para cactos e suculentas e troque o substrato a cada dois anos. \n\n"
+
+        "Multiplica-se facilmente por estaquia de folhas maduras, "
+        "destacadas e deixadas a cicatrizar por pelo menos um dia antes de "
+        "serem postas a enraizar em substrato próprio. \n"
+    </string>
+    <string name="title_activity_cacto__gato__history">Historia do Cacto Orelha-de-Gato</string>
+    <string name="large_text_gato_history">
+        "Cacto Orelha-de-Gato \n\n"
+
+        "A orelha-de-gato é uma planta suculenta, de folhagem muito curiosa e "
+        "ornamental, que chama a atenção pela disposição e forma, "
+        "mas principalmente pela cor e textura, que lembram a orelha de bichos "
+        "fofinhos, e lhe renderam apelidos carinhosos como orelha-de-gato "
+        "e planta-panda. \n\n"
+
+        "Suas folhas são espessas, de formato oblongo-lanceolado, "
+        "concavas em sua face superior e com uma quilha central na face inferior. \n\n"
+    </string>
+    <string name="avan_ar">Avançar</string>
+    <string name="finalizar">Finalizar</string>
+    <string name="title_activity_thirteen__steps_to__nowhere">Passo a Passo: Irrigador Vertical</string>
+    <string name="large_text_13_steps_to_nowhere">
+        "Passo a passo \n\n"
+
+        "Siga o Passo a passo a seguir para montar um Irrigador Vertical. \n\n"
+        "Voce precisa ter lido a pagina 'Materiais Necessarios' antes de "
+        "construir o irrigador. \n\n"
+
+        "1 - Corte as duas garrafas no meio e cole-as, usando a "
+        "fita isolante, com os pescoços das garrafas "
+        "apontando para direções opostas. \n\n"
+
+        "2 - Retire uma das tampas do 'casamento das garrafas' e "
+        "rosqueie a rosca para cano na boca da garrafa. "
+        "Em seguida, rosqueie as garrafas em um cano. \n\n"
+
+        "3 - Corte um cano de 28mm no meio, em seguida, encaixe no registro a parte cortada. "
+        "Depois encaixe outro cano no registro. \n\n"
+
+        "4 - Encaixe o 'T' adaptador no cano do passo anterior. "
+        "Em seguida, encaixe dois canos em cada extremidade de modo que fiquem deitados. "
+        "Lembre-se de tampar os canos de cada extremidade. \n\n"
+
+        "5 - Faça pequenos furos nos canos deitados "
+        "para encaixar as hastes de lincagem. "
+        "Caso as hastes de lincagem fiquem com alguma folga (soltas) use cola quente. \n\n"
+
+        "6 - Encaixe as tampas de caneta nas extremidades das hastes de lincagem. "
+        "Caso as tampas fiquem com alguma folga (soltas) use cola quente. \n\n"
+
+        "7 - Abasteça o irrigador com água e pendure o irrigador em uma parede "
+        "pelo pescoço da garrafa superior. \n\n"
+
+        "8 - Posicione as plantas abaixo das tampas de caneta. \n\n"
+
+        "9 - Abra o registro do cano vertical AOS POUCOS para controlar a vazão de água. \n\n"
+
+        "10 - Certifique-se de que a quantidade de água não irá afogar ou secar a planta. \n\n"
+
+        "11 - Evite pendurar o Irrigador muito longe da planta. \n\n"
+    </string>
+</resources>

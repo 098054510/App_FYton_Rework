@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    package="haistavittu.com.fytn">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Thirteen_Steps_to_Nowhere"
+            android:label="@string/title_activity_thirteen__steps_to__nowhere"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity android:name=".Help_page3" />
+        <activity android:name=".Help_page2" />
+        <activity android:name=".Help_Page" />
+        <activity
+            android:name=".Cacto_Gato_History"
+            android:label="@string/title_activity_cacto__gato__history"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Create_Cacto_Gato"
+            android:label="@string/title_activity_create__cacto__gato"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Cacto_Raposa_History"
+            android:label="@string/title_activity_cacto__raposa__history"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Cacto_Raposa_How_Create"
+            android:label="@string/title_activity_cacto__raposa__how__care"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Plants_Page_three" />
+        <activity android:name=".Cacto_Orelha_de_Gato_Detalhes" />
+        <activity android:name=".Cacto_Rabo_de_Raposa_Details" />
+        <activity
+            android:name=".History_Assitacia"
+            android:label="@string/title_activity_history__assitacia"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".How_Create_Coromandel"
+            android:label="@string/title_activity_how__create__coromandel"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Assistacia_Details" />
+        <activity
+            android:name=".How_Create_Erica"
+            android:label="@string/title_activity_how__create__erica"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".History_Erica"
+            android:label="@string/title_activity_history__erica"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Erica_Details" />
+        <activity
+            android:name=".How_Create_Orquidea"
+            android:label="@string/title_activity_how__create__orquidea"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".History_Orquidea"
+            android:label="@string/title_activity_history__orquidea"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Request_materials" />
+        <activity android:name=".All_Steps_Irrigator" />
+        <activity
+            android:name=".Vertical_Irrigator"
+            android:label="@string/title_activity_vertical__irrigator"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Details_plant1" />
+        <activity android:name=".plants_two" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <dist:module dist:instant="true" />
+
+</manifest>

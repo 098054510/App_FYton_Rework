@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Assistacia_Details">
+
+    <ImageView
+        android:id="@+id/imageView46"
+        android:layout_width="42dp"
+        android:layout_height="37dp"
+        android:layout_marginStart="16dp"
+        android:contentDescription="@string/todo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/h3"
+        app:srcCompat="@drawable/logo_fytn2" />
+
+    <TextView
+        android:id="@+id/textView44"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:fontFamily="@font/archivo_black"
+        android:text="@string/ficha_t_cnica"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView13" />
+
+    <TextView
+        android:id="@+id/textView41"
+        android:layout_width="323dp"
+        android:layout_height="37dp"
+        android:contentDescription="@string/todo"
+        android:fontFamily="@font/archivo_black"
+        android:text="@string/origem_sia_ndia_mal_sia"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/guideline51"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView44"
+        app:layout_constraintVertical_bias="0.052" />
+
+    <TextView
+        android:id="@+id/textView42"
+        android:layout_width="285dp"
+        android:layout_height="34dp"
+        android:contentDescription="@string/todo"
+        android:fontFamily="@font/archivo_black"
+        android:text="@string/ciclo_de_vida_perene"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/guideline51"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView43" />
+
+    <Button
+        android:id="@+id/create3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/todo"
+        android:onClick="How_Create_Coromandel"
+        android:text="@string/how_to_care"
+        app:layout_constraintBottom_toTopOf="@+id/guideline52"
+        app:layout_constraintEnd_toEndOf="@+id/textView43"
+        app:layout_constraintStart_toStartOf="@+id/guideline53"
+        app:layout_constraintTop_toBottomOf="@+id/textView42"
+        app:layout_constraintVertical_bias="0.56" />
+
+    <TextView
+        android:id="@+id/textView43"
+        android:layout_width="285dp"
+        android:layout_height="34dp"
+        android:fontFamily="@font/archivo_black"
+        android:text="@string/fam_lia_acanthaceae"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/guideline51"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView45"
+        app:layout_constraintVertical_bias="0.152" />
+
+    <Button
+        android:id="@+id/h3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="History_Assitacia"
+        android:text="@string/historia"
+        app:layout_constraintBottom_toTopOf="@+id/guideline52"
+        app:layout_constraintEnd_toEndOf="@+id/textView43"
+        app:layout_constraintTop_toBottomOf="@+id/textView42"
+        app:layout_constraintVertical_bias="0.608" />
+
+    <TextView
+        android:id="@+id/textView45"
+        android:layout_width="285dp"
+        android:layout_height="34dp"
+        android:contentDescription="@string/todo"
+        android:fontFamily="@font/archivo_black"
+        android:text="@string/categoria_arbusto"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/guideline51"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView40"
+        app:layout_constraintVertical_bias="0.106" />
+
+    <TextView
+        android:id="@+id/textView40"
+        android:layout_width="285dp"
+        android:layout_height="34dp"
+        android:contentDescription="@string/todo"
+        android:fontFamily="@font/archivo_black"
+        android:text="@string/clima_equatorial"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/guideline51"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView41"
+        app:layout_constraintVertical_bias="0.061" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline51"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="637dp" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline52"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintGuide_begin="700dp" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline53"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_begin="23dp" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline54"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_begin="385dp" />
+
+    <ImageView
+        android:id="@+id/imageView13"
+        android:layout_width="395dp"
+        android:layout_height="313dp"
+        android:contentDescription="@string/todo"
+        app:layout_constraintBottom_toTopOf="@+id/guideline52"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.489"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.095"
+        app:srcCompat="@drawable/coromandel" />
+</androidx.constraintlayout.widget.ConstraintLayout>
